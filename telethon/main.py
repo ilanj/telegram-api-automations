@@ -2,7 +2,7 @@ from telethon import TelegramClient, events
 from datetime import datetime
 
 # Your API credentials (replace with your own values)
-api_id = 1327887
+api_id = 123456
 api_hash = 'xxx'
 phone = '+91xxx'
 
